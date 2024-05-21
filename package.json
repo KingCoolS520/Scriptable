@@ -30,7 +30,7 @@
       "title": "交管12123",
       "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_12123.png",
       "version": "20240101",
-      "description": "显示交管积分、驾照和行驶证信息",
+      "description": "显示交管积分、驾驶证和行驶证信息",
       "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-12123.js"
     },
     {
@@ -54,7 +54,7 @@
       "title": "每日英语",
       "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_english.png",
       "version": "20240101",
-      "description": "显示每日英文图",
+      "description": "显示每日英语图",
       "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-english.js"
     },
     {
