@@ -1,0 +1,77 @@
+{
+  "author": "_plugins-scripts",
+  "scriptable": true,
+  "icon": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/icon_plus.png",
+  "repo": "https://github.com/KingCoolS520/Scriptable",
+  "dependency": {
+    "name": "_plugins",
+    "version": "20240101",
+    "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins.js"
+  },
+  "apps": [
+    {
+      "name": "_plugins-10000",
+      "title": "中国电信",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_10000.png",
+      "version": "20240101",
+      "description": "显示电信话费、流量和语音信息",
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-10000.js"
+    },
+    {
+      "name": "_plugins-10010",
+      "title": "中国联通",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_10010.png",
+      "version": "20240101",
+      "description": "显示联通话费、流量和语音信息",
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-10010.js"
+    },
+    {
+      "name": "_plugins-12123",
+      "title": "交管12123",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_12123.png",
+      "version": "20240101",
+      "description": "显示交管积分、驾照和行驶证信息",
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-12123.js"
+    },
+    {
+      "name": "_plugins-95598",
+      "title": "国家电网",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_95598.png",
+      "version": "20240101",
+      "description": "显示电费、上月用电和最近用电信息",
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-95598.js"
+    },
+    {
+      "name": "_plugins-calendar",
+      "title": "日历",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_calendar.png",
+      "version": "20240101",
+      "description": "显示日期、农历、天气和节假日信息",
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-calendar.js"
+    },
+    {
+      "name": "_plugins-english",
+      "title": "每日英语",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_english.png",
+      "version": "20240101",
+      "description": "显示每日英文图",
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-english.js"
+    },
+    {
+      "name": "_plugins-oild",
+      "title": "每日油价",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_oild.png",
+      "version": "20240101",
+      "description": "显示每日油价和油价调整信息",
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-oild.js"
+    },
+    {
+      "name": "_plugins-tophub",
+      "title": "今日热榜",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_tophub.png",
+      "version": "20240101",
+      "description": "显示各个平台今日热榜信息",
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-tophub.js"
+    }
+  ]
+}
