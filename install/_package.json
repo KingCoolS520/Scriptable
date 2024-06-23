@@ -72,6 +72,14 @@
       "version": "20240101",
       "description": "显示各个平台今日热榜信息",
       "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-tophub.js"
+    },
+    {
+      "name": "_plugins-timer",
+      "title": "倒计时",
+      "thumb": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/icon/item_timer.png",
+      "version": "20240101",
+      "description": "显示各个平台今日热榜信息",
+      "scriptURL": "https://raw.githubusercontent.com/KingCoolS520/Scriptable/main/_plugins-timer.js"
     }
   ]
 }
